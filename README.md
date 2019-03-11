@@ -1,5 +1,5 @@
 # An Open Source Learning Platform
-### [thesphere.online](https://www.thesphere.online)
+### Visit [thesphere.online](https://www.thesphere.online)
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-### Motivation
+## Motivation
 
 Many online learning platforms exist today spanning the breadth of human knowledge, so why bother with another? The problem starts with that few are designed well for the student. Many appear to be created as though the act of learning something was an after-thought. The Sphere hopes to combat that with a model of pairing expert topic contributors with wonderfully skilled content creators. 
 
