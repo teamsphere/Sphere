@@ -1,7 +1,6 @@
 # **Sphere**
-**Open Source Learning Platform**
-
-[theSphere.online](https://www.thesphere.online)
+**An Open Source Learning Platform**
+[thesphere.online](https://www.thesphere.online)
 
 ---
 
