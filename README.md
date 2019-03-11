@@ -1,8 +1,8 @@
 # **Sphere**
 **An Open Source Learning Platform**
+
 [thesphere.online](https://www.thesphere.online)
 
----
 
 ### Motivation
 
