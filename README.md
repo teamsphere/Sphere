@@ -18,7 +18,6 @@ The Sphere's topics are based on the tree of Diderot and d'Alembert, or, the "fi
 You might be thinking, isn't there [Wikipedia](https://www.wikipedia.org) already? The goal here is not to create a Wikipedia clone, but to extend the art of the possible by a global community of contributors into well crafted courses. The focus is on learning for the student, not simply an information store. This allows us the option of going experimental with learning methods and to display content in new and interesting ways. We find it incredibly important for a person to connect with a topic they are interested in, and should be a prerequesite for all learning.
 
 
-Once the project gets going, we hope the need for a platform of this nature will become apparent.
 
 
 ## Technologies
