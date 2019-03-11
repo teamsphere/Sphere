@@ -1,5 +1,4 @@
 # An Open Source Learning Platform
-### Visit [thesphere.online](https://www.thesphere.online)
 
 
 
